@@ -2,7 +2,7 @@
 
 I am a theoretical physicist.
 
-### Resaerch interests
+### My resaerch interests:
 
 <p> Gravity <p/>
 <p> Quantum information <p/>
